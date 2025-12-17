@@ -1,0 +1,32 @@
+/Users/tolabowenmaccurtain/Desktop/ISE/Block-11/EmbeddedSystems/EmbeddedProject/MAXFirmware/max_firmware/build/wsf_cs.o: \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/sources/targets/freertos/wsf_cs.c \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/include/wsf_cs.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/include/wsf_assert.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/include/wsf_trace.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/platform/include/pal_sys.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/Cordio/platform/include/pal_types.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/include/FreeRTOS.h \
+ FreeRTOSConfig.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/Device/Maxim/MAX32655/Include/max32655.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/5.9.0/Core/Include/core_cm4.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_version.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_compiler.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_gcc.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/5.9.0/Core/Include/mpu_armv7.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/Device/Maxim/MAX32655/Include/system_max32655.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/include/projdefs.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/include/portable.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/include/deprecated_definitions.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/portable/GCC/ARM_CM4F/portmacro.h \
+ /Users/tolabowenmaccurtain/msdk/Libraries/FreeRTOS//Source/include/mpu_wrappers.h

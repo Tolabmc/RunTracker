@@ -1,0 +1,34 @@
+/Users/tolabowenmaccurtain/Desktop/ISE/Block-11/EmbeddedSystems/EmbeddedProject/MAXFirmware/max_firmware/build/heap.o: \
+ /Users/tolabowenmaccurtain/msdk/Libraries/CMSIS/Device/Maxim/MAX32655/Source/heap.c \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/errno.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/errno.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/unistd.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/unistd.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/types.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/endian.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_endian.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/select.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_sigset.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timeval.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/timespec.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timespec.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/sys/sched.h \
+ /Users/tolabowenmaccurtain/msdk/Tools/GNUTools/10.3/arm-none-eabi/include/machine/types.h
