@@ -109,3 +109,4 @@ SRCS += freertos_tickless.c
 # Utils sources
 SRCS += time_utils.c
 
+SRCS += control_task.c

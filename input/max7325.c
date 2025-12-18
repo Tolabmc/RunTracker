@@ -110,7 +110,7 @@ bool Max7325_Init(void)
     s_initialized = true;
     s_prevState = 0xFF; /* Assume all released initially */
 
-    printf("[MAX7325] Ready! SW1=START, SW2=LAP, SW3=STOP\n");
+    printf("[MAX7325] Ready! SW1=START, SW2=LAP, SW3=STOP, SW4=MODE\n");
 
     return true;
 }
@@ -130,6 +130,7 @@ bool Max7325_ReadButtons(Max7325ButtonState_t *state)
     state->sw1_start = !(raw & MAX7325_SW1_MASK);
     state->sw2_lap = !(raw & MAX7325_SW2_MASK);
     state->sw3_stop = !(raw & MAX7325_SW3_MASK);
+    state->sw4_mode = !(raw & MAX7325_SW4_MASK);
 
     return true;
 }
@@ -284,6 +285,13 @@ static void processButtonChange(uint8_t current, uint8_t previous)
     {
         printf("[MAX7325] SW3 (STOP) pressed\n");
         Button_SendEvent(BTN_STOP);
+    }
+
+    /* SW4 - MODE button */
+    if ((previous & MAX7325_SW4_MASK) && !(current & MAX7325_SW4_MASK))
+    {
+        printf("[MAX7325] SW4 (MODE) pressed\n");
+        Button_SendEvent(BTN_MODE_NEXT);
     }
 
 /* Optional: debug print for any other button changes */

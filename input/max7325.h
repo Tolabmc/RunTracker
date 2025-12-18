@@ -62,6 +62,7 @@ typedef struct
     bool sw1_start;     /*!< SW1 state (START button) */
     bool sw2_lap;       /*!< SW2 state (LAP button) */
     bool sw3_stop;      /*!< SW3 state (STOP button) */
+    bool sw4_mode;      /*!< SW4 state (MODE button) */
     uint8_t raw;        /*!< Raw register value */
 } Max7325ButtonState_t;
 
@@ -138,4 +139,3 @@ void Max7325_ScanI2C(void);
 #endif
 
 #endif /* INPUT_MAX7325_H */
-
