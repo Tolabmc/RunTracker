@@ -1,0 +1,17 @@
+# Build outputs
+/build/
+*.o
+*.d
+*.a
+*.elf
+*.map
+*.bin
+*.hex
+*.log
+
+# IDE metadata
+/.vscode/
+/.settings/
+
+# Misc
+*.DS_Store
